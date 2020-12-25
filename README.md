@@ -1,4 +1,4 @@
-# NeirdTower
+# Neird Tower 👻
 
 ![image](https://github.com/sepios87/NeirdTower/blob/master/illustrationsGit/1.PNG)
 
